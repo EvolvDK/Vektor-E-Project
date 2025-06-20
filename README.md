@@ -27,7 +27,7 @@ Submodules include `RL` (Reinforcement Learning components), `JetsonGPIO`, and `
 *   Libraries: `libpthread`, `libtbb-dev`.
 *   Slamtec RPLIDAR SDK (`libsl_lidar_sdk.a` in `LiDAR_Project/lib/`).
 *   `JetsonGPIO` library (via submodule).
-*   **Hardware:** 1/10th scale vehicle, LiDAR, Jetson Nano (or similar).
+*   **Hardware:** 1/10th scale vehicle, RPLIDAR A2M12 LiDAR, NVIDIA Jetson Nano.
 
 ## ⚙️ Compilation
 
