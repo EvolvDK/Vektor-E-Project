@@ -1,0 +1,6 @@
+[submodule "RL"]
+	path = RL
+	url = git@github.com:EvolvDK/Vektor-E_RL.git
+[submodule "JetsonGPIO"]
+	path = JetsonGPIO
+	url = https://github.com/pjueon/JetsonGPIO
