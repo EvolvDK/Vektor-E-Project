@@ -21,7 +21,7 @@ The system architecture is designed for modularity and real-time performance. It
 
 Refer to the following diagrams for a visual representation:
 *   `ArchitectureRS.png`: System architecture for live operation with direct UART communication.
-*   `ArchitectureRS_Txt.png`: System architecture variant, possibly for simulation or logging, using text files for command transfer (`lawCommands.txt`).
+*   `ArchitectureRS_Txt.png`: System architecture variant, using text files for command transfer (`lawCommands.txt`).
 
 ![System Architecture](ArchitectureRS.png)
 ![System Architecture with Text I/O](ArchitectureRS_Txt.png)
