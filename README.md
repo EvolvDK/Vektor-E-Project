@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-This repository contains the C++ control system for a 1/10th scale autonomous vehicle. It processes LiDAR data for navigation and integrates Reinforcement Learning models (trained with Tianshou/Python in Webots) for autonomous driving. The system is designed for embedded platforms like the Jetson Nano.
+This repository contains the C++ control system for a 1/10th scale autonomous vehicle. It processes LiDAR data for navigation and integrates Reinforcement Learning models (trained with Tianshou/Python in Webots) for autonomous driving. The system is designed for Jetson Nano embedded platforms.
 
 Architecture diagrams:
 *   `ArchitectureRS.png`
